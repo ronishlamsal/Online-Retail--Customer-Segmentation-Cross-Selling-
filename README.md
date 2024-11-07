@@ -2,11 +2,11 @@
 The purpose of this project is to develop a data-driven strategy for segmenting customers and optimizing cross-selling opportunities, with the goal of enhancing business revenue and customer engagement. By leveraging machine learning techniques and advanced analytics, the project aims to identify key customer groups and tailor marketing strategies to their needs. This approach helps businesses better understand their customer base, improve retention rates, and increase the average transaction value, ultimately leading to sustainable growth.
 
 **Methods Used**
-Clustering Analysis
-Inferential Statistics
-Machine Learning
-Predictive Modeling
-Market Basket Analysis
+Clustering Analysis,
+Inferential Statistics,
+Machine Learning,
+Predictive Modeling,
+Market Basket Analysis and 
 Data Visualization
 
 **Technologies**
